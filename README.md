@@ -1,4 +1,3 @@
-# ANN_project
 # Handwritten Digits Classification using Artificial Neural Network (ANN)
 
 This code repository contains a Python script for classifying handwritten digits using an Artificial Neural Network (ANN) model.
